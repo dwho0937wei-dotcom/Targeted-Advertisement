@@ -106,20 +106,20 @@ Now onto summarizing what I have found after investigating each coupon.
       
 3. My Jupyter Notebooks
     To navigate to my notebook containing all 5 coupon investigation, click the following link:
-    
+        https://github.com/dwho0937wei-dotcom/Module5_Project/blob/main/All-5-Investigations-Combined_Daniel-Ho.ipynb 
     
     If you want to review my distinct coupon investigation in separate notebooks, then are my five separate ones:
         Bar Coupon:
-        
+            https://github.com/dwho0937wei-dotcom/Module5_Project/blob/main/Separate-Investigations/1st-Investigation_Bar-Coupons_Daniel-Ho.ipynb
         
         Cheap (<$20) Restaurant Coupon:
-        
+            https://github.com/dwho0937wei-dotcom/Module5_Project/blob/main/Separate-Investigations/2nd-Investigation_Cheap-Restaurant-Coupons_Daniel-Ho.ipynb
         
         Expensive ($20-50) Restaurant Coupon:
-        
+            https://github.com/dwho0937wei-dotcom/Module5_Project/blob/main/Separate-Investigations/3rd-Investigation_Expensive-Restaurant-Coupons_Daniel-Ho.ipynb
         
         Coffee House Coupon:
-        
+            https://github.com/dwho0937wei-dotcom/Module5_Project/blob/main/Separate-Investigations/4th-Investigation_Coffee-House-Coupons_Daniel-Ho.ipynb
         
         Carry out & Take away Coupon:
-        
+            https://github.com/dwho0937wei-dotcom/Module5_Project/blob/main/Separate-Investigations/5th-Investigation_Carry-Out-And-Take-Away-Coupons_Daniel-Ho.ipynb
