@@ -17,7 +17,7 @@ However, if you as the grader want to review the complete project in one noteboo
 
 Now onto summarizing what I have found after investigating each coupon.
 
-    2.1 Bar Coupon
+#### 2.1 Bar Coupon
         Following the given instructions, the pie chart showed that 41.2% of all users who received the bar coupon accepted the coupon.               
         Some pie charts have shown that most users who either:
             monthly visit bars more than 3 times,
@@ -35,7 +35,7 @@ Now onto summarizing what I have found after investigating each coupon.
         
         This led me to hypothesize that users aged 25-30 who visited the bar at least once while having no kids as passenger, never getting widowed, and not working for Farming, Fishing, & Forestry are the most likely people to accept the bar coupon.
         
-    2.2 Cheap (<$20) Restaurant Coupon
+#### 2.2 Cheap (<$20) Restaurant Coupon
         A pie chart showed that 70.9% of all users who received the cheap restaurant coupon accepted the coupon.
         Comparing this pie chart to another two pie charts that query the users in visiting the cheap restaurant at least once and then more than 3 times, I saw that the acceptance rate slightly increase to 71.7% and then 73% respectively.
         When querying users to only monthly visit the restaurant less than 1 or never visit at all, the acceptance rate decreases to 67.2%.
@@ -71,7 +71,7 @@ Now onto summarizing what I have found after investigating each coupon.
         With the last condition showing the highest increase in acceptance rate for those who meet the condition, 
         I hypothesize that users with an income between $37.5-62.5k that monthly visit both cheap and expensive restaurants more than once will more likely accept the cheap restaurant coupon.   
     
-    2.3 Expensive ($20-50) Restaurant Coupon
+#### 2.3 Expensive ($20-50) Restaurant Coupon
         A pie chart showed that 44.6% of users who received the expensive ($20-50) restaurant coupons accepted the coupon.
         My intuition is that expensive restaurants are usually fancy so I thought they would provide the best meal time for romantic couples. 
         When querying users who currently have their married partner with them as passenger, the pie chart showed that 62.5% accepted the coupon, higher than 44.6%.
@@ -82,7 +82,7 @@ Now onto summarizing what I have found after investigating each coupon.
         
         Therefore, I hypothesize that users with a partner as their passenger will more likely accept the expensive restaurant coupon unless the user is widowed.
     
-    2.4 Coffee House Coupon
+#### 2.4 Coffee House Coupon
         A pie chart showed that 49.6% of users who received the coffee house coupon accepted the coupon.
         I would intuitively see coffee as a morning beverage that gives people energy when drank.
         Therefore, I used a barplot to measure the proportion of users who accepted the coupon or not based on the time they are driving.
@@ -95,7 +95,7 @@ Now onto summarizing what I have found after investigating each coupon.
         
         In conclusion for this coupon, I hypothesize that users who drive at 10AM and monthly visited the coffee house at least once are very keen on accepting the coffee house coupon.
     
-    2.5 Carry Out & Take Away Coupon
+#### 2.5 Carry Out & Take Away Coupon
         The pie chart showed that 73.8% of users who received the Carry out & Take away coupon accept the coupon.
         Considering this is a coupon about picking up food, I thought it would have been convenient for the users to pick up the food as they are going towards their destination. 
         However, the pie chart of only users that can pick up food while going to the same direction as their destination showed that only 70.6% accepted the coupon while the pie chart of only users who need to go to the opposite direction from the destination to pick up the food showed that 75.4% accepted the coupon. 
